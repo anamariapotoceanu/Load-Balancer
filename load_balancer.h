@@ -1,4 +1,4 @@
-/* Copyright 2023 Potoceanu Ana-Maria 311CAb */
+
 #ifndef LOAD_BALANCER_H_
 #define LOAD_BALANCER_H_
 

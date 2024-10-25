@@ -1,7 +1,4 @@
 # Tema 2: Load Balancer
-
-### Nume: Potoceanu Ana-Maria  
-
 ---
 
 ### Descriere

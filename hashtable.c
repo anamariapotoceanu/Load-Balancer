@@ -1,4 +1,4 @@
-/* Copyright 2023 Potoceanu Ana-Maria 311CAb */
+
 #define HMAX 50
 #define MAX_STRING_SIZE 64
 #define MIN(x, y) ((x) < (y) ? (x) : (y))

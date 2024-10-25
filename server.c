@@ -1,4 +1,4 @@
-/* Copyright 2023 Potoceanu Ana-Maria 311CAb */
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>

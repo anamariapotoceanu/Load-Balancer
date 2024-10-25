@@ -1,4 +1,4 @@
-/* Copyright 2023 Potoceanu Ana-Maria 311CAb */
+
 #ifndef HASHTABLE_H_
 #define HASHTABLE_H_
 #define HMAX 50

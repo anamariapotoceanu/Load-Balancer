@@ -1,4 +1,4 @@
-/* Copyright 2023 Potoceanu Ana-Maria 311CAb */
+
 #ifndef SERVER_H_
 #define SERVER_H_
 #include "hashtable.h"
